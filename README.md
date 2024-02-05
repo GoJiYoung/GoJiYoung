@@ -29,19 +29,12 @@ Cos Pro(C++) 2급 2022.7
 
 경험
 
-Programing Languages    Java, JavaScript(ES6), HTML5, CSS3
-
-Framework/ Library      Vuejs, React, JQuery
-
-Server                  MongoDB, MySQL, Docker Registry, Apache, Tomcat
-
-Tooling/ DevOps         Docker, GitHub, bash
-Environment             AWS, Linux, Window
-ETC                     Jira, Notion, Dooray
-
+Programing Languages    Java, JavaScript(ES6), C++, C#
+Environment             Window
+ETC                     UNREAL5
 이론
 
-Linux
+
 Programing Languages    Java, JavaScript(ES6), HTML5, CSS3
 Framework/ Library      Vuejs, React, JQuery
 Server                  MongoDB, MySQL, Docker Registry, Apache, Tomcat
