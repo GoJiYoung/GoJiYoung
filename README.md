@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @GoJiYoung
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
   고지영
 
@@ -16,7 +9,7 @@
   명덕여자고등학교 2013.03 - 2016.02
 
   
-  2023년 8월에 졸업 후 BE관련 공부를 끊임없이 하고 있습니다.
+  2023년 8월에 졸업 후 BE관련 공부를 지속하고 있습니다.
   
 - 팀원이 믿을수있는 백앤드 개발자
 - 높은 품질의 코드 개발자
@@ -30,7 +23,8 @@ Cos Pro(C++) 2급 2022.7
 정보처리기사 2021.08
 
 
-========================================================================
+========================================================================\n
+
 기술 스택
 
 경험
@@ -53,7 +47,3 @@ ETC                     Jira, Notion, Dooray
 
 ========================================================================
 
-<!---
-GoJiYoung/GoJiYoung is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
