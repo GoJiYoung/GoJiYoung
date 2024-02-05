@@ -23,21 +23,25 @@ Cos Pro(C++) 2급 2022.7
 정보처리기사 2021.08
 
 
-========================================================================\n
+========================================================================
 
 기술 스택
 
 경험
 
 Programing Languages    Java, JavaScript(ES6), HTML5, CSS3
+
 Framework/ Library      Vuejs, React, JQuery
+
 Server                  MongoDB, MySQL, Docker Registry, Apache, Tomcat
+
 Tooling/ DevOps         Docker, GitHub, bash
 Environment             AWS, Linux, Window
 ETC                     Jira, Notion, Dooray
 
 이론
 
+Linux
 Programing Languages    Java, JavaScript(ES6), HTML5, CSS3
 Framework/ Library      Vuejs, React, JQuery
 Server                  MongoDB, MySQL, Docker Registry, Apache, Tomcat
